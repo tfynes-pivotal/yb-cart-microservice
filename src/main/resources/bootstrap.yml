@@ -2,7 +2,7 @@ spring:
   application:
     name: cart-microservice
 server:
-  port: 8083
+  port: 80
 eureka:
   instance:
     hostname: localhost
